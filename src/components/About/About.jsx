@@ -121,7 +121,7 @@ const About = () => {
 
           <div className="resume-buttons">
             <a
-              href="/resume.pdf"
+              href="/Resumeee.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -129,7 +129,7 @@ const About = () => {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Resumeee.pdf"
               download="VenuBabu_Resume.pdf"
             >
               📄 Download Resume
